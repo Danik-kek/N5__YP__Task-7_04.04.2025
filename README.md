@@ -1,4 +1,5 @@
 потеряный 8 из 5yp
+
 static void Main()
     {
         Console.Write("m: ");
@@ -22,3 +23,4 @@ static void Main()
         Console.WriteLine($"Среднее кратных 3: {avg3:F2}");
         Console.WriteLine(max9 != int.MinValue ? $"Максимальное кратное 9: {max9}" : "Нет кратных 9");
     }
+    
